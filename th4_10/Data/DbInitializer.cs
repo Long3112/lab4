@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using th4_10.Models;
 using th4_10.Data;
-using th4_10.Models;
+
 
 namespace th4_10.Data
 {
